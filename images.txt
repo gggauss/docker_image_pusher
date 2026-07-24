@@ -8,3 +8,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 docker.elastic.co/elasticsearch/elasticsearch:8.13.2
 docker.elastic.co/kibana/kibana:8.13.2
+
+nvcr.io/nvidia/pytorch:25.10-py3
